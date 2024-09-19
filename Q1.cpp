@@ -1,4 +1,16 @@
+//Employee Management System
 
+//File handling has been effectively used for each feature of this project
+
+//Operation
+
+//1. Add Employee Information
+
+//2. Search Employee Information
+
+//3. Delete Employee Data
+
+//4. Search Employee Record.
 
 #include <iostream>  
 #include <fstream>  
